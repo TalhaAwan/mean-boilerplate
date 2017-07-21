@@ -1,1 +1,7 @@
-MEAN stack Boilerplate Application. The server side code structure has largely been taken from [yeoman angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) generated code and modified.
+# MEAN Stack Boilerplate Application
+
+The server side code structure has largely been taken from [yeoman angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) generated code and modified.
+
+## License
+
+[BSD license](https://opensource.org/licenses/bsd-license.php)
